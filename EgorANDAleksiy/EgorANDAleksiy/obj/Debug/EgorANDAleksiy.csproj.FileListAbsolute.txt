@@ -1,0 +1,17 @@
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\MainWindow.g.cs
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\PageMain.g.cs
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\App.g.cs
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy_MarkupCompile.cache
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy_MarkupCompile.lref
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\bin\Debug\EgorANDAleksiy.exe.config
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\bin\Debug\EgorANDAleksiy.exe
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\bin\Debug\EgorANDAleksiy.pdb
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\MainWindow.baml
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\PageMain.baml
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.g.resources
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.Properties.Resources.resources
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.exe
+C:\Users\artur\source\repos\EgorANDAleksiy\EgorANDAleksiy\obj\Debug\EgorANDAleksiy.pdb
